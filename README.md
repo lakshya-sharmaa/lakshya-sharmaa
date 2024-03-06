@@ -1,4 +1,4 @@
-Hello! Welcome to my GitHub profile. I am passionate about coding and technology.
+Hello! Welcome to my GitHub profile. CS student with love for all things AI, Fintech, cybersecurity blockchain & IoT. In my free time, you'll find me creating Art or DOMINATING at Badminton
 
 ## Skills and Technologies
 
