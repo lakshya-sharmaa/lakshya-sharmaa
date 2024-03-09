@@ -114,9 +114,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=https://medium.com/@lakshyas688&theme=tokyonight" alt="Medium posts"  />
-</div>
-
-###
