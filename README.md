@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lakshya</h1>
+<h1 align="center">Hi, I'm Lakshya<br>Developer In Making</h1>
 
 ###
 
@@ -8,26 +8,26 @@
   <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
+<!--   <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  /> -->
   </a>
-  <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
+  <a href="https://www.youtube.com/@ls-animation" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
+  <a href="https://www.instagram.com/lakshyaa_sharmaa_/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
+  <a href="https://dribbble.com/shaktimaanlakshya" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=flat" height="25" alt="dribbble logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="25" alt="twitch logo"  />
+<!--   <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="25" alt="twitch logo"  /> -->
   </a>
-  <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
+  <a href="https://twitter.com/LakshyaaSharmaa" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+<!--   <a href="https://www.linkedin.com/in/lakshya-sharmaa" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  /> -->
   </a>
 </div>
 
